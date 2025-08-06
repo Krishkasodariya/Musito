@@ -17,7 +17,6 @@
 
 ## 🎯 Key Features
 
-- 🗂️ Browse all audio files with folder-wise categorization  
 - 🔍 Real-time search for songs  
 - ❤️ Like and 💔 Unlike tracks to build favorites  
 - 📤 Share music with others  
@@ -50,7 +49,7 @@ To run the app locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/music_player_app.git
+git clone https://github.com/Krishkasodariya/Musito.git
 
 # Navigate to the project folder
 cd music_player_app
@@ -60,3 +59,4 @@ flutter pub get
 
 # Run the app
 flutter run
+
